@@ -1,0 +1,40 @@
+#!markdown
+
+PART - 1 
+
+1 - data types.\
+2 - sorting  & filtering.\
+3 - Handling an absence of data.\
+4 - LINQ.\
+5 - COM and dynamic typing.\
+6 - asnyc code\
+7 - .Net platform\
+8 - code super awesome.
+
+core fundations : building on C# 
+
+PART - 2 
+
+1 - parameterized typeing 
+2 - saying notihing with nullable type 
+3 - fast-tracked delegates 
+4 - implementing iterators the easy way. 
+5 - concluding 
+
+PART - 3 : Revolutionizing Data Acess 
+
+8 - cutting fluff with a smart compiler 
+9 - lambda expression & expression trees. 
+10 - extension methods 
+11 - query expressions and LINQ to Objects 
+12 - LINQ byeond collections. 
+
+PART - 4 : Playing nicly with others 
+
+13 - Minor changes to simplfy code. 
+14 - Dynamic binding in a static langauge. 
+
+PART - 5 Async made simple 
+
+15 -  asyn/await 
+16 - Bouns features and closing thoughts. 
